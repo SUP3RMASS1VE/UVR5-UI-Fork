@@ -1,5 +1,5 @@
-audio-separator[gpu]==0.30.0
+audio-separator[gpu]
 scipy
-gradio==5.19.0
+gradio
 yt_dlp
 pypresence
