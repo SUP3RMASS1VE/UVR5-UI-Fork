@@ -3,3 +3,4 @@ scipy
 gradio==5.19.0
 yt_dlp
 pypresence
+pydantic==2.10.6
